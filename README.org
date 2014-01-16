@@ -1,0 +1,12 @@
+* About
+
+Don Colacho's (Nicolás Gómez Dávila) aphorisms, taken from [[http://don-colacho.blogspot.com/][this website]].
+
+* Dedication
+
+Assembled for the benefit of all geek reactionaries.
+
+* Roadmap [1/3]
+  - [X] JSON file
+  - [ ] Fortunes file
+  - [ ] Distribution of fortunes package in several distros
