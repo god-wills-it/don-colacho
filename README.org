@@ -1,13 +1,13 @@
 * About
 
-Don Colacho's (Nicolás Gómez Dávila) aphorisms, taken from [[http://don-colacho.blogspot.com/][this website]].
+Don Colacho's (Nicolás Gómez Dávila) aphorisms, taken from [[http://don-colacho.blogspot.com/][this
+website]].
 
 * Dedication
 
 Assembled for the benefit of all geek reactionaries.
 
-* Roadmap [2/4]
+* Roadmap [3/3]
   - [X] JSON file
   - [X] Fortunes file
-  - [ ] Read [[https://aur.archlinux.org/packages/fo/fortune-mod-homestuck-git/PKGBUILD][this]] and [[https://aur.archlinux.org/packages/fo/fortune-mod-archer/PKGBUILD][this]] and create an arch linux package
-  - [ ] Figure out other distros to distribute
+  - [X] [[https://aur.archlinux.org/packages/fortune-mod-don-colacho/][AUR package]].
