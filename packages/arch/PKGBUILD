@@ -22,6 +22,6 @@ build() {
 
 package() {
   msg "Installing"
-  install -D -m644 $src/$_gitname/don-colacho     $pkgdir/usr/share/fortune/don-colacho
-  install -D -m644 $src/$_gitname/don-colacho.dat $pkgdir/usr/share/fortune/don-colacho.dat
+  install -D -m644 $srcdir/$_gitname/don-colacho     $pkgdir/usr/share/fortune/don-colacho
+  install -D -m644 $srcdir/$_gitname/don-colacho.dat $pkgdir/usr/share/fortune/don-colacho.dat
 }
